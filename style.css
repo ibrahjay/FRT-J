@@ -1,10 +1,10 @@
 body{
-    
-background-color:rgb(97, 211, 240);
+    font-size: x-large;
+background-color:rgb(118, 188, 206);
 
 h1,h2,h3,h4{ 
     text-align: center;
-     font-size:x-large;
+     font-size: xx-large;
      color: yellow;
      text-underline-position: below;
      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
